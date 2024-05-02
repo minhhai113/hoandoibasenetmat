@@ -1,4 +1,4 @@
-# Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
+#  version of ROOP)
 Google Colab Link: [Click here](https://colab.research.google.com/drive/1o2LG8e_kg174vPjI_OQ9Xs1r8U4BSk-w)
 
 # Roop
